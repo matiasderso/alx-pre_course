@@ -1,1 +1,1 @@
-My readme is update from github
+My readme is up to date from github
